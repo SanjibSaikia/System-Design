@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36" version="27.2.0">
   <diagram name="Page-1" id="Ah_BVm8UG3qweHjtrVJi">
-    <mxGraphModel dx="1737" dy="878" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2084" dy="1054" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -168,6 +168,15 @@
         </mxCell>
         <mxCell id="hRZKgi0yS8pwd4xGPH1x-68" value="Data Science Teams" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1225" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hRZKgi0yS8pwd4xGPH1x-69" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;ORCHESTRATION&lt;br&gt;(Airflow / S3 Event Notification + EventBridge)&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="720" width="480" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="hRZKgi0yS8pwd4xGPH1x-71" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;CICD / Pipeline / Configs Deployment&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="152.5" y="980" width="570" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hRZKgi0yS8pwd4xGPH1x-72" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;ERROR HANDLING &amp;amp; ALTERING MECHANISMS&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="145" y="880" width="600" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
