@@ -112,9 +112,6 @@
             <mxPoint x="1170" y="334.17" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="hRZKgi0yS8pwd4xGPH1x-55" value="KAFKA TOPIC" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="680" y="100" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="hRZKgi0yS8pwd4xGPH1x-56" value="Data Warehouse (Redshift/BigQuery)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="680" y="220" width="120" height="60" as="geometry" />
         </mxCell>
