@@ -157,7 +157,7 @@
         <mxCell id="hRZKgi0yS8pwd4xGPH1x-71" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;CICD / Pipeline / Configs Deployment&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="152.5" y="980" width="570" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="hRZKgi0yS8pwd4xGPH1x-72" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;ERROR HANDLING &amp;amp; ALTERING MECHANISMS&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="hRZKgi0yS8pwd4xGPH1x-72" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;ERROR HANDLING &amp;amp; ALERTING MECHANISMS&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="145" y="880" width="600" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hRZKgi0yS8pwd4xGPH1x-74" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;Kafka/Kinesis/PubSub&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
