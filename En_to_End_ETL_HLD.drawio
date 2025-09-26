@@ -67,8 +67,8 @@
         <mxCell id="hRZKgi0yS8pwd4xGPH1x-36" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="142.5" y="490" width="580" height="190" as="geometry" />
         </mxCell>
-        <mxCell id="hRZKgi0yS8pwd4xGPH1x-37" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;DataLake Storage (S3)&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="330" y="490" width="230" height="30" as="geometry" />
+        <mxCell id="hRZKgi0yS8pwd4xGPH1x-37" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;DataLakehouse Storage (S3)&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="245" y="510" width="380" height="30" as="geometry" />
         </mxCell>
         <mxCell id="hRZKgi0yS8pwd4xGPH1x-39" value="LANDING" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="1" vertex="1">
           <mxGeometry x="170" y="560" width="60" height="80" as="geometry" />
