@@ -389,6 +389,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="d8BHIvoS8qKDxp6kdq20-393" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;font&gt;Detailed LakeHouse Architecture Diagram&lt;/font&gt;&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=36;" vertex="1" parent="1">
+          <mxGeometry x="140" y="1220" width="1720" height="120" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
