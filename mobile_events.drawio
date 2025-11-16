@@ -114,6 +114,9 @@
         <mxCell id="zaFRGQ22PDiReX_VllF0-53" value="&lt;font&gt;Data Orchestration , Processing&amp;nbsp; &amp;amp; Curation&lt;/font&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=18;fontStyle=1;fontFamily=Helvetica;" vertex="1" parent="1">
           <mxGeometry x="500" y="200" width="440" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="zaFRGQ22PDiReX_VllF0-160" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zaFRGQ22PDiReX_VllF0-55" target="zaFRGQ22PDiReX_VllF0-93">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="zaFRGQ22PDiReX_VllF0-55" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Glue Data Catalog&lt;/font&gt;" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#ffffff;fillColor=#232F3E;dashed=0;verticalLabelPosition=middle;verticalAlign=bottom;align=center;html=1;whiteSpace=wrap;fontSize=10;fontStyle=1;spacing=3;shape=mxgraph.aws4.productIcon;prIcon=mxgraph.aws4.service_catalog;fontFamily=Helvetica;" vertex="1" parent="1">
           <mxGeometry x="900" y="260" width="80" height="130" as="geometry" />
         </mxCell>
@@ -242,6 +245,9 @@
         </mxCell>
         <mxCell id="zaFRGQ22PDiReX_VllF0-158" value="&lt;font&gt;&lt;b&gt;Data Science Teams&lt;/b&gt;&lt;/font&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="1696.64" y="660" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zaFRGQ22PDiReX_VllF0-162" value="&lt;font style=&quot;font-size: 50px;&quot;&gt;&lt;b&gt;Lakehouse Architecture High Level Diagram&lt;/b&gt;&lt;/font&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="340" y="930" width="1280" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
