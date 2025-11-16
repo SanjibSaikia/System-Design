@@ -184,7 +184,7 @@
         <mxCell id="zaFRGQ22PDiReX_VllF0-103" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Distributed SQL Query Engine&lt;/font&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="1135" y="525" width="230" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="zaFRGQ22PDiReX_VllF0-105" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;SQL UI Platform and Data Visualization tool&lt;/font&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="zaFRGQ22PDiReX_VllF0-105" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;SQL Querying UI Platform and Data Visualization tool&lt;/font&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="1538.36" y="525" width="230" height="30" as="geometry" />
         </mxCell>
       </root>
