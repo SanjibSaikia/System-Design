@@ -357,7 +357,7 @@
           <mxGeometry x="1090" y="1019" width="82.5" height="93" as="geometry" />
         </mxCell>
         <mxCell id="d8BHIvoS8qKDxp6kdq20-362" value="Amazon SNS" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#ffffff;fillColor=#232F3E;dashed=0;verticalLabelPosition=middle;verticalAlign=bottom;align=center;html=1;whiteSpace=wrap;fontSize=10;fontStyle=1;spacing=3;shape=mxgraph.aws4.productIcon;prIcon=mxgraph.aws4.sns;" vertex="1" parent="1">
-          <mxGeometry x="1320" y="1030" width="80" height="100" as="geometry" />
+          <mxGeometry x="1280" y="1030" width="80" height="100" as="geometry" />
         </mxCell>
         <mxCell id="d8BHIvoS8qKDxp6kdq20-364" value="AWS Cloudwatch" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="1101" y="1120" width="60" height="30" as="geometry" />
