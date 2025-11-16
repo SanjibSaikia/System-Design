@@ -107,7 +107,7 @@
           <mxGeometry x="505" y="235" width="495" height="160" as="geometry" />
         </mxCell>
         <mxCell id="zaFRGQ22PDiReX_VllF0-53" value="&lt;font&gt;Data Orchestration , Processing&amp;nbsp; &amp;amp; Curation&lt;/font&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=18;fontStyle=1;fontFamily=Helvetica;" vertex="1" parent="1">
-          <mxGeometry x="510" y="200" width="350" height="30" as="geometry" />
+          <mxGeometry x="500" y="200" width="440" height="30" as="geometry" />
         </mxCell>
         <mxCell id="zaFRGQ22PDiReX_VllF0-55" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Glue Data Catalog&lt;/font&gt;" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#ffffff;fillColor=#232F3E;dashed=0;verticalLabelPosition=middle;verticalAlign=bottom;align=center;html=1;whiteSpace=wrap;fontSize=10;fontStyle=1;spacing=3;shape=mxgraph.aws4.productIcon;prIcon=mxgraph.aws4.service_catalog;fontFamily=Helvetica;" vertex="1" parent="1">
           <mxGeometry x="900" y="260" width="80" height="130" as="geometry" />
@@ -137,7 +137,7 @@
           <mxGeometry x="520" y="680" width="460" height="140" as="geometry" />
         </mxCell>
         <mxCell id="zaFRGQ22PDiReX_VllF0-67" value="&lt;font&gt;Data Quality &amp;amp; Governance&lt;/font&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=18;fontStyle=1;fontFamily=Helvetica;" vertex="1" parent="1">
-          <mxGeometry x="520" y="640" width="220" height="30" as="geometry" />
+          <mxGeometry x="500" y="641" width="250" height="30" as="geometry" />
         </mxCell>
         <mxCell id="zaFRGQ22PDiReX_VllF0-69" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;fontFamily=Helvetica;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -183,6 +183,9 @@
         </mxCell>
         <mxCell id="zaFRGQ22PDiReX_VllF0-103" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Distributed SQL Query Engine&lt;/font&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="1135" y="525" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zaFRGQ22PDiReX_VllF0-105" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;SQL UI Platform and Data Visualization tool&lt;/font&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1538.36" y="525" width="230" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
